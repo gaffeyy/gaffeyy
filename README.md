@@ -16,7 +16,7 @@
 
 ### - 📫 项目 Projects...
 
-1. 动态线程池（网页版）：[gaffeyy/DynamicTp: DynamicThreadPool (github.com)](https://github.com/gaffeyy/DynamicTp)
+1. 动态线程池（网页版）：http://gaffeyl.com.cn/dynamictp/index
 
 
 
